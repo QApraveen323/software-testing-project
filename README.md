@@ -103,12 +103,4 @@ This repository provides a curated list of essential open-source testing framewo
 2. **[TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code)**  
    Open-source test management for manual and automated testing.
 
----
 
-## Contributing
-Feel free to fork and contribute to these projects! Share your ideas and improvements via pull requests or discussions.
-
----
-
-## License
-Each project in this list is subject to its respective license. Check the individual repositories for details.
